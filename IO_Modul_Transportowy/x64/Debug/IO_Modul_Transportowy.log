@@ -1,0 +1,13 @@
+﻿  Ladunek.cpp
+  Pojazd.cpp
+  Pracownik_fizyczny.cpp
+  Pracownik_kierowca.cpp
+  Pracownik_logistyk.cpp
+  Przedmiot.cpp
+  std.h
+  Zarzadzanie.cpp
+  Zespol_pracownikow.cpp
+  Źródło.cpp
+  Generowanie kodu...
+c:\users\paweł\desktop\io_modul_transportowy\io_modul_transportowy\przedmiot.cpp(85): warning C4715: "Modul_dzialu_transportu::Przedmiot::zwroc_wymiar”: niewszystkie ścieżki kodu zwracają wartość
+  IO_Modul_Transportowy.vcxproj -> C:\Users\Paweł\Desktop\IO_Modul_Transportowy\x64\Debug\IO_Modul_Transportowy.exe
